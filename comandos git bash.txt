@@ -8,3 +8,10 @@ user.name o que vai ser alterado
 
 chave github: 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
 
+git commit -m "nome" incluir uma nova pasta no GiHub
+
+git push origin "nome da branch" incluir a nova pasta no GitHub
+
+git clone "URL" clonar para a maquina
+
+git pull empurrar uma pasta no GitHub para a maquina
