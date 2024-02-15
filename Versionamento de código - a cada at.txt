@@ -1,0 +1,5 @@
+Versionamento de código - a cada atualização do código gerar uma nova versão, pode gerar alguns poblemas como desorganização por ser muitos arquivos, armazenamento por serem muitos arquivos.
+Para a solução pode ser usado um sistema de controle de versão - controlam as versões de um arquivo ao longo do tempo registrando o hitórico de atualizações de um arquivo; gerenciando quaia foram as alterações, a dara, autor, etc; organização, controle e segurança.
+Tipos de sistemas:
+VCS Centralizado - apenas um srvidor que contem apenas um arquivo de controle de versão, desvantagem é que se ficar fora do ar não consegue salvar.
+VCS Distribuido - voce e seu amigo tem uma cópia do arquivo e permite editar mesmo que o servidor esteja fora do ar. Ele também clona o repositório completo, o que inclui o histórico de versões, sendo cada clone um backup; poccibilitando um floxo de trabalho flexivel; possibilidade de trabalhar sem conexão à rede.

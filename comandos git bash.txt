@@ -1,0 +1,10 @@
+comandos git bash:
+ctrl+l limpa a tela
+
+git config inicio do código
+--global onde vai ser armazenado os novos dados
+user.name o que vai ser alterado
+"digitar o que var ser colocado"
+
+chave github: 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
+

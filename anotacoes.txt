@@ -1,0 +1,4 @@
+Melhores plataformas para o desenvolfimento de jogos na atualidade: unitty mais usada, unreal é a segunda, godot é a terceira
+entre outras: libgdx e jMonkeyEngine paragrama em java
+O melhor engine para desenvolver jogos é a que você sabe usar.
+monogame usa c# programa o jogo todo no código.

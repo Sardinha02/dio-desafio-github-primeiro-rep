@@ -1,0 +1,10 @@
+o que é o git?
+Sistema de controle de versão distribuido - gratuito e open source; ramificações e fusões eficientes; leve e rápido.
+Fluxo do Git - git clone (clona o repositório para uma pasa local)
+git commit - grava alterações no repositório.
+git pull -  puxa as alterações do repositório remoto para o local
+git push - empurra as alterações do repositório remoto para o local.
+
+o que é github?
+plataforma de hospedagem de código para controle de versão com git, e colaboração.
+githubé o servidor enquanto o git é o gerenciador.

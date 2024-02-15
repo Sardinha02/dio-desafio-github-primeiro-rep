@@ -1,0 +1,9 @@
+criando e clonando repositórios:
+Duas formas de obter um repositório Git na sua maquina:
+1 - transformando um diretório local quw enão está sob controle de versão, num repositório Git;
+2 - Clonando um repositório Git existente.
+
+mkdir - criar um diretório (cria uma pasta no pc)
+cd .. - comando para volta uma pasta 
+git remote add URL - adicionar um reposiótio remoto
+ 
